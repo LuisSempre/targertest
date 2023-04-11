@@ -68,6 +68,8 @@ b) Considerar 2 pedágios como obstáculo e que o caminhão leva 5 minutos a mai
 
 c) Explique como chegou no resultado.
 
+Resposta:
+
 Levando em consideração a distância de 100 km entre Ribeirão Preto e Franca, a velocidade constante do carro de 110 km/h e a velocidade constante do caminhão de 80 km/h, juntamente com os dois pedágios como obstáculos e o fato de o carro possuir tag de pedágio (Sem Parar) e o caminhão levar 5 minutos a mais para passar em cada pedágio, podemos calcular onde eles se cruzarão na rodovia.
 
 Vamos chamar de Ponto A o local onde o carro sai de Ribeirão Preto e de Ponto B o local onde o caminhão sai de Franca. A distância entre o Ponto A e o Ponto B é de 100 km.
